@@ -1,0 +1,1 @@
+{"sam": {"password": "sam123", "balance": 0}}-{"har": "har123"}-{"ram": {"password": "ram44", "balance": 56.0}}-
